@@ -34,8 +34,8 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 - **ABC** - Full Stack Engineer *(Sep 2020 ~)*
-- **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
-- **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
+- **Hanwha General Insurance** - HQ Business Channel Development Team salesman *(Jan 2018 - Jan 2019)*
+- **LG UPLUS** - HQ salesman *(2015-2018)*
   
 
 <br/>  
