@@ -26,7 +26,7 @@
 
 Good day!
 
-I am a machine learning developer from South Korea 🇰🇷. I am interested in blockchain. I love reading, exercising and communicating! 
+I am a full stack engineer from South Korea 🇰🇷. I am interested in blockchain. I love reading, exercising and communicating! 
 
 If you want to contact me, please leave me a message!
  
@@ -43,9 +43,9 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
-- 🌱 I'm currently learning Deep Learning, Computer Vision.
-- 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
+- 🔭 I’m currently working on [abc](https://www.abc.ne.kr/) as a full stack engineer.
+- 🌱 I'm currently learning Blockchain
+- 📝 I regularly write articles on [my blog](https://tyrannocoding.tistory.com/).  
   
 
 <br/>  
