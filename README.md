@@ -35,7 +35,7 @@ If you want to contact me, please leave me a message!
 ### 💫 Experience
 - **ABC** - Full Stack Engineer *(Sep 2020 ~)*
 - **Hanwha General Insurance** - HQ Business Channel Development Team salesman *(Jan 2018 - Jan 2019)*
-- **LG UPLUS** - HQ salesman *(2015-2018)*
+- **LG UPLUS** - HQ salesman *(2015 - 2018)*
   
 
 <br/>  
