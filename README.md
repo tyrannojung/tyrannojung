@@ -1,3 +1,9 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=tyrannojung&&style=flat-square" align="right" />
+</div>  
+  
+<br/>  
+
 ### Hi there 👋
 
 <!--
