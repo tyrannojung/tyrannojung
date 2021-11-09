@@ -22,6 +22,34 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
+### Hello, I'm Jiyeon Lee!
+
+Good day!
+
+I am a machine learning developer from South Korea 🇰🇷. I am interested in data science and deep learning and computer vision. I love reading, exercising and communicating! 
+
+If you want to contact me, please leave me a message!
+ 
+<br/>
+
+### 💫 Experience
+- **11st** - Machine learning developer *(Jan 2021 ~)*
+- **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
+- **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
+  
+
+<br/>  
+
+
+### ✨ Summary
+
+- 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
+- 🌱 I'm currently learning Deep Learning, Computer Vision.
+- 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
+  
+
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
