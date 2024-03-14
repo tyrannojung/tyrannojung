@@ -44,7 +44,6 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [abc](https://www.abc.ne.kr/) as a full stack engineer.
 - 🌱 I'm currently learning Blockchain
 - 📝 I regularly write articles on [my blog](https://tyrannocoding.tistory.com/).  
   
