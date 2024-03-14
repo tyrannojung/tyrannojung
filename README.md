@@ -33,7 +33,8 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💫 Experience
-- **ABC** - Full Stack Engineer *(Sep 2020 ~ )*
+- **Happymoney INC** - Full Stack Engineer *(Sep 2022 ~ 2023)*
+- **ABC** - Full Stack Engineer *(Sep 2020 - 2022 )*
 - **Hanwha General Insurance** - HQ Business Channel Development Team *(Jan 2018 - Jan 2019)*
 - **LG UPLUS** - HQ salesman *(2015 - 2018)*
   
