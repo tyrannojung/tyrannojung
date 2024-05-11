@@ -33,7 +33,7 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💫 Experience
-- **Onther INC** - master's graduate student, Blockchain major *(2023 ~ )*
+- **Onther INC** - master's graduate student, blockchain major *(2023 ~ )*
 - **Happymoney INC** - Full Stack Engineer *(2022 ~ 2023)*
 - **ABC** - Full Stack Engineer *(2020 - 2022)*
   
